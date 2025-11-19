@@ -13,7 +13,7 @@ echo "$name is age group of teenager"
 
  elif [[ $age -gt 20 && $age -lt 45 ]]; then
 
-echo "$name is age group of adult"
+echo "$name is age group of aged"
 else 
-echo "$name is old"
+echo "$name is aged"
 fi
