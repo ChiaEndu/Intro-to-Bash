@@ -14,3 +14,4 @@ if [[$username -eq $USERNAME && $password -eq $PASSWORD]]; then
   echo "Welcome, $username, you entered the right password"
 else 
   echo "Invalid username or password"
+  echo "welcome to rebase code camp"
