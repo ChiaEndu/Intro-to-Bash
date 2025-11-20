@@ -11,3 +11,4 @@ echo "my name is $Name"
 read -p "Enter your name:" NAME
 echo "Hello $Name, nice to meet you!"
 
+tutorials day 4 
